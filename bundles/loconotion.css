@@ -91,13 +91,13 @@ a[data-token-index] svg.page {
     padding-left: 0 !important;
   }
 
-  /*
+
   /* add padding to banner, but not to image */
   .notion-frame > .notion-scroller > div:first-child > div:last-child {
-    padding-right: 2em !important;
-    padding-left: 2em !important;
+    padding-right: 0em !important;
+    padding-left: 0em !important;
   }
-  */
+ 
 
   /* add padding to content */
   .notion-scroller > div:not([class]):not(:first-child),
